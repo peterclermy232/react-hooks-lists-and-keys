@@ -22,7 +22,6 @@ function ColorList() {
     </div>
   );
 }
-// use of map
 function ColorList() {
   const colors = [
     "firebrick",
@@ -44,6 +43,6 @@ function ColorList() {
       </ol>
     </div>
   );
-}
+  
 
 export default ColorList;

@@ -22,7 +22,6 @@ function ColorList() {
     </div>
   );
 }
-// use of map
 function ColorList() {
   const colors = [
     "firebrick",
